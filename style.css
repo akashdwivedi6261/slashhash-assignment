@@ -1,0 +1,22 @@
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  #searchResults {
+    margin-top: 20px;
+  }
+  
+  .card {
+    margin-bottom: 10px;
+  }
+  
+  .btn-favorite {
+    background-color: yellow;
+    color: black;
+  }
